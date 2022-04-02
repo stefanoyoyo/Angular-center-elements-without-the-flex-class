@@ -1,0 +1,18 @@
+div#container {
+  position: absolute;
+  width: 90vw;
+  height: 90vh;
+  border: solid blue 1px 
+}
+
+div.elements {
+  display: block;
+  padding: 50%
+}
+
+#first, #second {
+  position: relative;
+  width:30%;
+  height: 30%;
+  border: 1px solid brown;
+}
